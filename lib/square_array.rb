@@ -1,12 +1,6 @@
 def square_array(array)
-counter = 0
-array = [1,2,3]
-newarray=[0,1,2]
- 
-while array[counter] do
-  array[counter]*array[counter] = newarray[counter]
-  
-  counter += 1
-end
-puts newarray[0]
+
+
+
+
 end

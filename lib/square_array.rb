@@ -1,3 +1,3 @@
-5.times do |index+1|
+5.times do |index|
   puts index
 end

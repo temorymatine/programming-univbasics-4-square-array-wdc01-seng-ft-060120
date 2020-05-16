@@ -1,3 +1,3 @@
 5.times do |index|
-  puts index
+  puts index.shift
 end

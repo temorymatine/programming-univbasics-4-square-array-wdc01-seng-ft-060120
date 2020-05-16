@@ -8,5 +8,5 @@ while array[counter] do
   
   counter += 1
 end
-puts newarray[0,1,2]
+puts newarray[0]
 end

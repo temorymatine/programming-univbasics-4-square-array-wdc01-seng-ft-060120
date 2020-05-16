@@ -1,9 +1,7 @@
-def square_array(array)
-numbers = [1,2,3]
-counter = 0
-
-while numbers.length.times do |i|
-   i**2
-  
+array = [1,2,3,4,5]
+new_array = []
+ 
+array.length.times do |index|
+  new_array.push(array[index] + 1)
 end
-end
+new_array

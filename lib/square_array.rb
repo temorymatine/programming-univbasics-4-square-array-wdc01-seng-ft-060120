@@ -3,7 +3,7 @@ counter = 0
 array = [1,2,3]
  
 while array[counter] do
-  puts array[counter]**array[counter]
+  puts array[counter]*array[counter]
   counter += 1
 end
 end

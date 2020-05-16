@@ -1,9 +1,10 @@
-def square_array(array)
+def square_array(array,newarray)
 counter = 0
 array = [1,2,3]
+newarray=[]
  
 while array[counter] do
-  puts array[counter]*array[counter]
+  array[counter]*array[counter] = newarray[counter]
   counter += 1
 end
 end

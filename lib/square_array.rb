@@ -1,7 +1,7 @@
 def square_array(array)
 counter = 0
 array = [1,2,3]
-newarray=[]
+newarray=[0,1,2]
  
 while array[counter] do
   array[counter]*array[counter] = newarray[counter]

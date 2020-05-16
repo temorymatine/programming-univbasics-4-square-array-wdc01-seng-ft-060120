@@ -5,6 +5,8 @@ newarray=[]
  
 while array[counter] do
   array[counter]*array[counter] = newarray[counter]
+  
   counter += 1
 end
+puts newarray[0,1,2]
 end

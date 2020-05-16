@@ -7,7 +7,7 @@ new_arrayy = []
 array.length.times do |index|
   new_array.push(array[index] ** 2)
 end
-
+new_array
 arrayy.length.times do |index|
   new_arrayy.push(arrayy[index] ** 2)
 end
